@@ -16,12 +16,13 @@ import {
   angular,
   python,
   chatgpt,
-  spplstm,
-  icr,
+  spring_project,
   symphony_solutions,
   it_test,
   pyco,
   amazon,
+  exoworlds_project,
+  react_native_project,
 } from "../assets";
 
 export const navLinks = [
@@ -201,70 +202,74 @@ const testimonials = [
 
 const projects = [
   {
-    name: "Stock price prediction with LSTM",
+    name: "React Native Project",
     description:
-      "Stock Price Prediction with LSTM (Long Short Term Memory) is a machine learning project that uses LSTM, a type of recurrent neural network, to predict stock prices. The model takes historical stock price data as input and outputs the predicted future prices. This project demonstrates the application of deep learning techniques in financial markets for making informed trading decisions.",
-    tags: [
-      {
-        name: "python",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "LSTM",
-        color: "green-text-gradient",
-      },
-      {
-        name: "yfinance",
-        color: "pink-text-gradient",
-      },
-    ],
-    image: spplstm,
-    source_code_link:
-      "https://github.com/parth-ghinaiya/stock-price-prediction-with-lstm",
-  },
-  {
-    name: "Full Stack Developer Course",
-    description:
-      "Full Stack Development Course with React, Flask, Python, and SQLAlchemy. This course is designed to teach you the fundamentals of full-stack development. You will learn how to build a REST API with Flask, a web framework for Python. You will also learn how to build a web application with React, a JavaScript library for building user interfaces. Finally, you will learn how to connect your web application to your REST API using SQLAlchemy, an object-relational mapper for Python.",
+      `Mobile social coordination prototype built with React Native and Firebase. Main stack is React, Redux, Firebase, React Native Elements, React Native Router Flux, Location API`,
     tags: [
       {
         name: "react",
         color: "blue-text-gradient",
       },
       {
-        name: "python",
+        name: "react native",
         color: "green-text-gradient",
       },
       {
-        name: "sqlalchemy",
+        name: "firebase",
         color: "pink-text-gradient",
       },
     ],
-    image: symphony_solutions,
+    image: react_native_project,
     source_code_link:
-      "https://www.youtube.com/playlist?list=PLjMIC_h0rNV1GmEoxd_7C77CJlbv_sHun",
+      `https://github.com/0129general/react_native_project.git`,
   },
   {
-    name: "Image Classification Using Resnet-50",
+    name: "Exo Worlds Project",
     description:
-      "Image Classification Using Resnet-50 is a machine learning project that uses Resnet-50, a type of convolutional neural network, to classify images. The model takes an image as input and outputs the predicted class of the image. This project demonstrates the application of deep learning techniques in computer vision for making informed decisions.",
+      `ExoWorlds is a Sci-Fi NFT blockchain MMORPG built on the Elysium Blockchain.`,
     tags: [
       {
-        name: "python",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "matlab",
+        name: "Next",
         color: "green-text-gradient",
       },
       {
-        name: "resnet-50",
+        name: "Express",
+        color: "pink-text-gradient",
+      },
+      {
+        name: "TailwindCss",
+        color: "green-text-gradient",
+      }
+    ],
+    image: exoworlds_project,
+    source_code_link:
+      `https://exoworlds.io/`,
+  },
+  {
+    name: "Spring Stack Project",
+    description:
+      `Java open source e-commerce software.`,
+    tags: [
+      {
+        name: "Java",
+        color: "blue-text-gradient",
+      },
+      {
+        name: "Java Spring Boot",
+        color: "green-text-gradient",
+      },
+      {
+        name: "Angular",
         color: "pink-text-gradient",
       },
     ],
-    image: icr,
+    image: spring_project,
     source_code_link:
-      "https://github.com/VictorWang/image_classification_resnet50",
+      `https://github.com/0129general/java_spring_project.git`,
   },
 ];
 

@@ -37,9 +37,9 @@ import amazon from "./company/amazon.jfif";
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
-import spplstm from "./spplstm.png";
-// import symphony_solutionsacademy from "./symphony_solutionsacademy.png";
-import icr from "./icr.png";
+import exoworlds_project from "./exoworlds_project.png";
+import react_native_project from "./react_native_project.jpg";
+import spring_project from "./spring_project.png";
 
 export {
   logo,
@@ -75,8 +75,8 @@ export {
     jenkins,
     python,
     flask,
-    spplstm,
-  // symphony_solutionsacademy,
-    icr,
+    exoworlds_project,
+    react_native_project,
+    spring_project,
   nlogo
 };
