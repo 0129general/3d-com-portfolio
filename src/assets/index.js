@@ -1,13 +1,14 @@
 import logo from "./logo.svg";
 import nlogo from "./nlogo.jfif";
+import github from "./github.png";
+import menu from "./menu.svg";
+import close from "./close.svg";
+// experiences
 import laravel_vue from "./laravel_vue.png";
 import spring_stack from "./spring_stack.png";
 import react_native from "./react_native.jfif";
 import mern_stack from "./mern_stack.png";
-import github from "./github.png";
-import menu from "./menu.svg";
-import close from "./close.svg";
-
+// skills
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
@@ -27,17 +28,17 @@ import chatgpt from "./tech/chatgpt.svg";
 import jenkins from "./tech/jenkins.svg";
 import python from "./tech/python.svg";
 import flask from "./tech/flask.svg";
-
-import geeks from "./company/geeks.png";
-import abaut from "./company/abaut.png";
-import lanet from "./company/lanet.png";
-import gps from "./company/gps.png";
+// company mark
+import symphony_solutions from "./company/symphony_solutions.jfif";
+import it_test from "./company/it_test.png";
+import pyco from "./company/pyco.jfif";
+import amazon from "./company/amazon.jfif";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import spplstm from "./spplstm.png";
-import geeksacademy from "./geeksacademy.png";
+// import symphony_solutionsacademy from "./symphony_solutionsacademy.png";
 import icr from "./icr.png";
 
 export {
@@ -65,17 +66,17 @@ export {
   carrent,
   jobit,
   tripguide,
-    abaut,
-    lanet,
-    gps,
-    geeks,
+    it_test,
+    pyco,
+    amazon,
+    symphony_solutions,
     angular,
     chatgpt,
     jenkins,
     python,
     flask,
     spplstm,
-  geeksacademy,
+  // symphony_solutionsacademy,
     icr,
   nlogo
 };

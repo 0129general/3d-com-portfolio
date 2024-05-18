@@ -12,21 +12,16 @@ import {
   nodejs,
   mongodb,
   docker,
-  carrent,
-  jobit,
-  tripguide,
   threejs,
-  abaut,
-  geeks,
-  gps,
-  lanet,
   angular,
-  flask,
   python,
   chatgpt,
   spplstm,
-  geeksacademy,
   icr,
+  symphony_solutions,
+  it_test,
+  pyco,
+  amazon,
 } from "../assets";
 
 export const navLinks = [
@@ -122,7 +117,7 @@ const experiences = [
   {
     title: "Senior Software Engineer",
     company_name: "Symphony Solutions",
-    icon: abaut,
+    icon: symphony_solutions,
     iconBg: "#ffffff",
     date: "Nov 2022 - Present",
     points: [
@@ -136,7 +131,7 @@ const experiences = [
   {
     title: "Software Engineer",
     company_name: "IT Test",
-    icon: geeks,
+    icon: it_test,
     iconBg: "#000000",
     date: "Mar 2019 - Oct 2022",
     points: [
@@ -149,7 +144,7 @@ const experiences = [
   {
     title: "Junior Software Engineer",
     company_name: "PYCO",
-    icon: gps,
+    icon: pyco,
     iconBg: "#FAF9F6",
     date: "Aug 2016 - Feb 2019",
     points: [
@@ -162,7 +157,7 @@ const experiences = [
   {
     title: "Software Engineer Intern",
     company_name: "Amazon",
-    icon: gps,
+    icon: amazon,
     iconBg: "#FAF9F6",
     date: "Dec 2015 - Jul 2016",
     points: [
@@ -245,7 +240,7 @@ const projects = [
         color: "pink-text-gradient",
       },
     ],
-    image: geeksacademy,
+    image: symphony_solutions,
     source_code_link:
       "https://www.youtube.com/playlist?list=PLjMIC_h0rNV1GmEoxd_7C77CJlbv_sHun",
   },
