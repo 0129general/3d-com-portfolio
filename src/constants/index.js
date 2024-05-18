@@ -120,57 +120,58 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Software Developer",
-    company_name: "Abaut",
+    title: "Senior Software Engineer",
+    company_name: "Symphony Solutions",
     icon: abaut,
     iconBg: "#ffffff",
-    date: "May 2022 - Present",
+    date: "Nov 2022 - Present",
     points: [
-      "Achieved a 50% increase in product performance and scalability through optimization and code refactoring.",
-      "Developed and Optimized Complex DS Algorithm for Labeling in Siteview Product.",
-      "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-      "Worked on Scalability & UX features for Siteview.",
+      `Spearheaded the migration of monolithic applications to a microservices architecture using Spring Boot, resulting in a 27% improvement in scalability and performance. This transformation enabled the organization to achieve greater
+      scalability, and time-to-market, aligning with industry trends and best practices.`,
+      `Offered experience with Java, Java Spring, TypeScript, Angular, Docker and GCP.`,
+      `Improved internal core library used by web and mobile platforms.`,
+      `Implemented CI/CD pipelines using Git, Jenkins, and GitHub Actions to automate software delivery processes.`,
     ],
   },
   {
-    title: "Main Coding Instructor",
-    company_name: "4Geeks Academy",
+    title: "Software Engineer",
+    company_name: "IT Test",
     icon: geeks,
     iconBg: "#000000",
-    date: "Apr 2023 - Aug 2023",
+    date: "Mar 2019 - Oct 2022",
     points: [
-      "I was primarily tasked with instructing students in an extensive Full-Stack Developer Bootcamp.",
-      "The curriculum focused on teaching coding in Python and Javascript, understanding REST APIs, constructing backend structures using Flask and Postgresql, and developing impressive web applications with React.",
-      "My main role involved guiding students through these aspects to ensure a thorough understanding of the material.",
-      "The emphasis was on providing a comprehensive education in full-stack development.",
+      `Launched internal order management system utilizing React.js and Node.js.`,
+      `Developed robust, scalable, modular and API-centric infrastructures with GCP, AWS and GitHub Actions.`,
+      `Updated old React.js code to modern development standards, improving functionality and performance.`,
+      `Worked with project managers, developers, quality assurance and customers to create an employee training mobile application.`,
     ],
   },
   {
-    title: "Full stack Developer",
-    company_name: "Lanet Team",
-    icon: lanet,
-    iconBg: "#FAF9F6",
-    date: "Aug 2020 - Feb 2022",
-    points: [
-      "I specialized in React JS, React Native, and Node JS development. Utilized React Hooks, React Routers, and Redux for enhanced functionality",
-      "Implemented strict lint checks with TypeScript in Node JS projects. Contributed to diverse, large-scale applications, including e-commerce and social media platforms",
-      "Established professional workflows for React Native and Node JS development. Implemented CI/CD pipelines with tools like Travis and Github.",
-      "Proficient in working with databases like MongoDB, MySQL, and Postgres. Experienced with Docker, AWS, GCP, and Firebase for efficient deployment and scalability in the cloud.",
-    ],
-  },
-  {
-    title: "Website & App Developer",
-    company_name: "GPS Gangadhara",
+    title: "Junior Software Engineer",
+    company_name: "PYCO",
     icon: gps,
     iconBg: "#FAF9F6",
-    date: "May 2020 - Aug 2020",
+    date: "Aug 2016 - Feb 2019",
     points: [
-      "Developed a tailored website and application for a school during the COVID period.",
-      "Created a basic online learning platform using HTML, JS (frontend), and PHP, SQL (backend).",
-      "Led the design and implementation of graphic layouts and communication materials.",
-      "Managed multimedia initiatives, producing educational videos and maintaining school web services.",
+      `Developed software components in JavaScript based on functional requirements and specifications.`,
+      `Efficiently deployed and integrated software engineered by team and updated integration/deployment scripts to improve continuous integration practices.`,
+      `Defined feature sets into well-scoped user stories for individual team members based on MVP requirements.`,
+      `Wrote technical documentation to support the maintenance team.`,
     ],
   },
+  {
+    title: "Software Engineer Intern",
+    company_name: "Amazon",
+    icon: gps,
+    iconBg: "#FAF9F6",
+    date: "Dec 2015 - Jul 2016",
+    points: [
+      `Assisted in maintenance of software for advertising platform.`,
+      `Documented and tested new web applications in JavaScript.`,
+      `Performed competitor research to fuel new feature development.`,
+      `Collaborated with members of software development team.`,
+    ],
+  }
 ];
 
 const testimonials = [
