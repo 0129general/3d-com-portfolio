@@ -3,7 +3,7 @@
 <div align="center">
 
 <br />
-    <a href="https://Victor-Wang-dark-3d.netlify.app/" target="_blank">
+    <a href="https://3d-com-portfolio.vercel.app/" target="_blank">
       <img src="https://raw.githubusercontent.com/VictorWang-fau/Victor-Wang-dark-3d/main/src/assets/photo.png" alt="Project Banner">
     </a>
   <br />
