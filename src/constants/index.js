@@ -23,6 +23,9 @@ import {
   amazon,
   exoworlds_project,
   react_native_project,
+  avatar1,
+  avatar2,
+  avatar3,
 } from "../assets";
 
 export const navLinks = [
@@ -175,28 +178,25 @@ const testimonials = [
     testimonial:
       "Victor, as all the features, of a highly skilled, guide, mentor and professional in the web development world. his technical abilities, he always encouraged students to work on a independent way, and face the coding challenges head on",
     name: "Luís Miguel Lopes Santos",
-    designation: "Electrical Engineer",
-    company: "eReM",
-    image:
-      "https://media.licdn.com/dms/image/D4D03AQEO1P7quIcbyg/profile-displayphoto-shrink_100_100/0/1683222236604?e=1710979200&v=beta&t=Azg5LCvfTo1FJrazWYxuBiXYgYW2mdvjKPsRp1RXHX8",
+    designation: "Software Engineer",
+    company: "Symphony Solutions",
+    image:avatar1
   },
   {
     testimonial:
       "I have no doubt that Victor would be a valuable asset to any team. He is a highly skilled, motivated, and dedicated individual with a passion for software development. I highly recommend him for any software development position.",
     name: "Keyur Vadodariya",
     designation: "Full Stack Developer",
-    company: "La Net Team",
-    image:
-      "https://media.licdn.com/dms/image/D4D03AQFFzcff-Vsnsg/profile-displayphoto-shrink_200_200/0/1695226357503?e=1710979200&v=beta&t=vu4xC8vs5rCpvXNI_scAHYUXGTT8SskT9PRS1YTChlI",
+    company: "IT TEST",
+    image:avatar2
   },
   {
     testimonial:
       "Victor was a mentor and a guide who played a pivotal role in shaping our journey as Full Stack Web Developers. I am grateful for his impactful teaching style, support, and the valuable lessons that will undoubtedly resonate throughout my career.",
     name: "Lucia Mackova",
     designation: "Full Stack Developer",
-    company: "Just Imagine",
-    image:
-      "https://media.licdn.com/dms/image/D4D35AQGCReQRV9Vpwg/profile-framedphoto-shrink_200_200/0/1697097930914?e=1705838400&v=beta&t=kwqV_q5iPmwhV09rKBh-dFRO6e24xEvAcEmgCE4Hslk",
+    company: "PYCO",
+    image:avatar3
   },
 ];
 
@@ -204,7 +204,7 @@ const projects = [
   {
     name: "React Native Project",
     description:
-      `Mobile social coordination prototype built with React Native and Firebase. Main stack is React, Redux, Firebase, React Native Elements, React Native Router Flux, Location API`,
+      `Mobile social coordination prototype built with React Native and Firebase. React Native's advantages include cross-platform development, performance and efficiency, code reusability, community support and flexibility, and live reloading features. These advantages make React Native a popular choice for mobile app development, especially in scenarios where time-to-market and code efficiency are crucial factors.`,
     tags: [
       {
         name: "react",
@@ -226,7 +226,7 @@ const projects = [
   {
     name: "Exo Worlds Project",
     description:
-      `ExoWorlds is a Sci-Fi NFT blockchain MMORPG built on the Elysium Blockchain.`,
+      `ExoWorlds is a Sci-Fi NFT blockchain MMORPG built on the Elysium Blockchain. The MERN stack's advantages include a full JavaScript stack, MVC architecture, open-source components, unified language base, streamlined development, a comprehensive suite of tools, and cost-effectiveness. These advantages make the MERN stack a popular choice for modern web and mobile app development`,
     tags: [
       {
         name: "React",
@@ -252,7 +252,7 @@ const projects = [
   {
     name: "Spring Stack Project",
     description:
-      `Java open source e-commerce software.`,
+      `Java open source e-commerce software. The Spring Stack offers advantages such as container-based deployment, scalability options, extensive infrastructure support, testable code through dependency injection, comprehensive features, and simplified deployment, making it a popular choice for developers and applications.`,
     tags: [
       {
         name: "Java",

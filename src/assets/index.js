@@ -41,7 +41,14 @@ import exoworlds_project from "./exoworlds_project.png";
 import react_native_project from "./react_native_project.jpg";
 import spring_project from "./spring_project.png";
 
+import avatar1 from "./avatar/avatar1.png";
+import avatar2 from "./avatar/avatar2.png";
+import avatar3 from "./avatar/avatar3.png";
+
 export {
+  avatar1,
+  avatar2,
+  avatar3,
   logo,
   mern_stack,
   spring_stack,
