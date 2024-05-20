@@ -178,7 +178,7 @@ const testimonials = [
     testimonial:
       "Victor, as all the features, of a highly skilled, guide, mentor and professional in the web development world. his technical abilities, he always encouraged students to work on a independent way, and face the coding challenges head on",
     name: "Luís Miguel Lopes Santos",
-    designation: "Software Engineer",
+    designation: "CEO",
     company: "Symphony Solutions",
     image:avatar1
   },
@@ -186,7 +186,7 @@ const testimonials = [
     testimonial:
       "I have no doubt that Victor would be a valuable asset to any team. He is a highly skilled, motivated, and dedicated individual with a passion for software development. I highly recommend him for any software development position.",
     name: "Keyur Vadodariya",
-    designation: "Full Stack Developer",
+    designation: "CEO",
     company: "IT TEST",
     image:avatar2
   },
@@ -194,7 +194,7 @@ const testimonials = [
     testimonial:
       "Victor was a mentor and a guide who played a pivotal role in shaping our journey as Full Stack Web Developers. I am grateful for his impactful teaching style, support, and the valuable lessons that will undoubtedly resonate throughout my career.",
     name: "Lucia Mackova",
-    designation: "Full Stack Developer",
+    designation: "CEO",
     company: "PYCO",
     image:avatar3
   },
